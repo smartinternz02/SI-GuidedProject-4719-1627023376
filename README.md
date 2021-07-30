@@ -2,7 +2,7 @@
 
 This Project is Crop Protection from Animals
 
-Team Members: Anushka Shukla [Team Leader] ,Prashant Maikhuri ,Tharani Kumar ,Vishwa 
+Team Members: Anushka Shukla [Team Leader] ,Vishwa Hatwalne, Prashant Maikhuri ,Tharani Kumar ,
 
 Project Link: https://drive.google.com/drive/folders/1H2QTie7imBqONpQh_CwD7ZT6rmAPU3Qa?usp=sharing
 
